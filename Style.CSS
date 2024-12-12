@@ -1,0 +1,14 @@
+/* Class Selector */
+.ExternalCSS{
+    font-size: 20px;
+    text-align: right;
+    background-color: darkgoldenrod;
+}
+/* Element Selector */
+main{
+    border: 5px darkred solid;
+    background-color: lightcoral;
+}
+footer{
+  color: purple;  
+}
